@@ -2,11 +2,11 @@ import React from 'react';
 
 function EyesonMe () {
     const handleFocus = () => {
-        console.log("Great")
+        console.log("Good!")
     };
 
     const handleBlur = () => {
-        console.log("Eyes over here!")
+        console.log("Hey! Eyes on me!")
     };
 
     return (
